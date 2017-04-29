@@ -1,0 +1,23 @@
+.left {
+  position: relative;
+  width: 20%;
+  display: inline-block;
+  background-color: red;
+  text-align: center;
+}
+
+.center {
+  position: relative;
+  width: 50%;
+  display: inline-block;
+  background-color: white;
+  text-align: center;
+}
+
+.right {
+  position: relative;
+  width: 30%;
+  display: inline-block;
+  background-color: blue;
+  text-align: center;
+}
